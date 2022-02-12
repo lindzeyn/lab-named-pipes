@@ -2,6 +2,7 @@
 
 A lab designed to do basic IPC using named pipes (FIFOs).
 
+You might have noticed that the.
 
 ## Your Task
 
