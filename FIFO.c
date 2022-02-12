@@ -81,7 +81,7 @@ int main(void) {
 			// from the pipe long after our child closes the write end.
 			//sleep(2);
 		}
-		fprintf(stderr,"rv = %d since we hit the EOF",rv);
+		fprintf(stderr,"\nrv = %d since we hit the EOF",rv);
 		fflush(stderr);
 		close(fd);
 	}
